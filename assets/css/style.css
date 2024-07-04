@@ -16,7 +16,9 @@
 .font-color:hover {
   color: rgba(0, 0, 0, 0.418);
 }
-
+.svg-logo-img1 {
+  width: 40px;
+}
 .btn {
   max-width: 118px;
   width: 118px;
@@ -560,6 +562,17 @@
   }
   .remove-button {
     align-content: center;
+  }
+  .event {
+    color: #2c49fe;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+  }
+  .svg-logo-img1 {
+    width: 40px;
+    height: 46px;
   }
 }
 
